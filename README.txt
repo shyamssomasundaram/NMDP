@@ -1,1 +1,0 @@
-This directory contains project reports of all my projects done at the National Marrow Donor Program as part of my internship.
